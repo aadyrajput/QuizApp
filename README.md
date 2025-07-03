@@ -47,8 +47,4 @@ git clone https://github.com/aadyrajput/QuizApp.git
 Pull requests are welcome! For major changes, open an issue first to discuss what you’d like to change.
 
 
-💬 Contact
-Made with ❤️ by Aady Rajput
-Feel free to connect or give ⭐ if you like the project!
-
 ﻿

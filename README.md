@@ -29,53 +29,14 @@ Backend	Firebase Realtime Database, Firebase Auth
 Async Handling	Kotlin Coroutines
 IDE	Android Studio
 
-🧪 Screenshots
-(Add screenshots here with markdown image syntax or upload to repo)
-
-md
-Copy
-Edit
-![Login Screen](screenshots/login.png)
-![Quiz Screen](screenshots/quiz.png)
 🚀 Getting Started
 Clone the repository
 
-bash
-Copy
-Edit
 git clone https://github.com/aadyrajput/QuizApp.git
 cd QuizApp
 Open in Android Studio
 
-Configure Firebase
 
-Add your google-services.json to the app/ folder
-
-Set up Firebase Auth (Email/Password)
-
-Configure Firebase Realtime Database with questions
-
-Run the App
-
-Use an emulator or Android device (API 21+)
-
-📂 Firebase Realtime Database Structure
-json
-Copy
-Edit
-{
-  "questions": {
-    "q1": {
-      "question": "What is the capital of France?",
-      "optionA": "Berlin",
-      "optionB": "Paris",
-      "optionC": "Rome",
-      "optionD": "Madrid",
-      "answer": "B"
-    },
-    ...
-  }
-}
 📌 Roadmap / To-do
  Add user score history
 
@@ -88,8 +49,6 @@ Edit
 🤝 Contributing
 Pull requests are welcome! For major changes, open an issue first to discuss what you’d like to change.
 
-📄 License
-MIT
 
 💬 Contact
 Made with ❤️ by Aady Rajput

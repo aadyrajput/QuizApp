@@ -33,9 +33,6 @@ IDE	Android Studio
 Clone the repository
 
 git clone https://github.com/aadyrajput/QuizApp.git
-cd QuizApp
-Open in Android Studio
-
 
 📌 Roadmap / To-do
  Add user score history
